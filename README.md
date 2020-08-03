@@ -1,3 +1,6 @@
+AIzaSyCtoA9GvhVOW8hUVo7er80p4NGzti_1aK8
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
